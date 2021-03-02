@@ -20,7 +20,7 @@ This list helps to track my duties and order my tasks.
 </p>
 
 ## Techstack:
-- JDK 11
+- JDK 15
 - Maven
 - JavaFX
 
