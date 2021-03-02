@@ -14,9 +14,9 @@ This list helps to track my duties and order my tasks.
 
 ## Screenshots
 <p align="left">
-  <img src="./img/img1.png" height="287" width="937" alt="Img1">
-  <img src="./img/img2.png" height="285" width="936" alt="Img2">
-  <img src="./img/img3.png" height="285" width="938" alt="Img3">
+  <img src="./img/img1.png" height="170" width="937" alt="Img1">
+  <img src="./img/img2.png" height="170" width="936" alt="Img2">
+  <img src="./img/img3.png" height="170" width="938" alt="Img3">
 </p>
 
 ## Techstack:
